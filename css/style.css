@@ -78,12 +78,13 @@ nav {
     height: 19;
 }
     .menu {text-align: start;
-        margin-bottom: 49px;
+        *margin-bottom: 49px;
     }
     .menu a{
-        padding-left: 50px;
+        margin-left: 50px;
         padding-top: 20px;
-        padding-right: 50px;
+        margin-right: 0px;
+        /*gap: 50px;*/
     }
     .menu a:hover{
     color: #0065FC;
