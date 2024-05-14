@@ -1,3 +1,3 @@
 # Site Booki
-Projet 2 OpennClassrooms
+Projet 2 OpenClassrooms
 Developpeur WEB
